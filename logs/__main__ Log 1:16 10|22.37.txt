@@ -1,6 +1,0 @@
-Connection Established to server
-Server requested size of image
-sent server size of image
-server requested image
-Failed to send image data
-lost connection to server
