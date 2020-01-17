@@ -1,6 +1,6 @@
 import debug
 #__name__ is the name of the current file, this is used if you import multiple libraries
-file_name = name = __name__
+file_name = __name__
 log_array = []
 
 log_array = debug.log("Initializing Program", debug.get_line(), file_name, log_array)
