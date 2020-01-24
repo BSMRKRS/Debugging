@@ -1,3 +1,0 @@
-11:31.7 Initializing Program on line 6 in __main__
-11:31.7 name 'RPL' is not defined on line 12 in __main__
-11:31.7 Program Completed on line 14 in __main__
